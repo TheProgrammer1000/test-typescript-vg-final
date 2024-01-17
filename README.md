@@ -1,1 +1,1 @@
-# test-typescript-vg-final
+# test-typescript-vg
